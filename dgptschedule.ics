@@ -25,7 +25,6 @@ TRANSP:TRANSPARENT
 SUMMARY:DGPT Elite Series+ - Discraft Great Lakes Open
 LOCATION:Milford\, MI
 DESCRIPTION:Toboggan
-URL:https://www.pdga.com/tour/event/88296
 END:VEVENT
 BEGIN:VEVENT
 UID:20250917-gmcmp@discgolftour.com
@@ -36,7 +35,6 @@ TRANSP:TRANSPARENT
 SUMMARY:DGPT Match Play - Group Play
 LOCATION:Jeffersonville\, VT
 DESCRIPTION:Brewster Ridge\, Fox Run Meadows
-URL:https://www.dgpt.com/matchplay/
 END:VEVENT
 BEGIN:VEVENT
 UID:20250918-gmc@discgolftour.com
@@ -349,6 +347,7 @@ LOCATION:Lynchburg\, VA
 DESCRIPTION:Ivy Hill
 END:VEVENT
 END:VCALENDAR
+
 
 
 
