@@ -164,7 +164,7 @@ DTEND;VALUE=DATE:20260209
 TRANSP:TRANSPARENT
 SUMMARY:PDGA A-Tier The Memorial Championship
 LOCATION:Scottsdale\, AZ
-DESCRIPTION:Fountain Hills DGC
+DESCRIPTION:Fountain Hills DGC\, Red Mountain South
 END:VEVENT
 BEGIN:VEVENT
 UID:20260206-tdu@discgolftour.com
@@ -477,4 +477,5 @@ LOCATION:Henderson\, NV
 DESCRIPTION:Wildhorse Golf Club
 END:VEVENT
 END:VCALENDAR
+
 
