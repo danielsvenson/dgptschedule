@@ -610,12 +610,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-dgpt-01-9789a2f4-457e-5055-ae08-0f75bdf70b96@dgpt.com
-DTSTAMP:20261114T223626Z
+DTSTAMP:20261117T223626Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270301
-SUMMARY:Greater Atlanta Open - JomezPro Series
+SUMMARY:Cherry Blossom Open - JomezPro Series
 LOCATION:Conyers\, GA
-DESCRIPTION:Designation: JomezPro Series\nTournament: Greater Atlanta Open\nLocation: Conyers\, GA
+DESCRIPTION:Designation: JomezPro Series\nTournament: Cherry Blossom Open\nLocation: Iron Hoof Disc Golf Course\, Conyers\, GA
 CATEGORIES:JomezPro Series
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
